@@ -1,0 +1,24 @@
+body{
+    font-family: verdana;
+    font-size: 2em;
+    margin: 10%;
+}
+
+#mySubmit{
+    display: block;
+    margin-top: 30px;
+    padding: 10px;
+    font-size: 1em;
+    margin-top: 20px;
+    border: none;
+}
+#mySubmit:hover{
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+#myCheckbox{
+    margin-bottom: 30px;
+    padding: 10px;
+    font-size: 1em;
+}
