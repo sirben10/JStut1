@@ -1,0 +1,19 @@
+body{
+    font-family: verdana;
+    text-align: center;
+    margin: 10% auto;
+}
+#myButton{
+    font-size: 3em;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#myLabel{
+    display: block;
+    margin-top: 20px;
+    font-size: 3em;
+}
