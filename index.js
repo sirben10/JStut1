@@ -9,7 +9,6 @@ const resetBtn = document.querySelector('#reset');
 const increaseBtn = document.querySelector('#increase');
 const countLabel = document.querySelector('#countLabel');
 let count = 0;
-
 decreaseBtn.addEventListener('mousedown', () => {
     count--;
     countLabel.textContent = count;
